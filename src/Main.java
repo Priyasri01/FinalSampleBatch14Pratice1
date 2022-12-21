@@ -12,5 +12,11 @@ public class Main {
       fxron.size="23456";
       fxron.temp="-1457413";
 
+      Planet2 boris = new Planet2();
+      boris.color= "Pink";
+      boris.size=3487;
+      boris.rings="1";
+      boris.temp="9548k";
+
     }
 }
