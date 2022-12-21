@@ -12,11 +12,19 @@ public class Main {
       fxron.size="23456";
       fxron.temp="-1457413";
 
+
       Planet1 stuart =new Planet1();
       stuart.color="White";
       stuart.size=2434;
       stuart.ring="5";
       stuart.temp="-98";
+
+      Planet2 boris = new Planet2();
+      boris.color= "Pink";
+      boris.size=3487;
+      boris.rings="1";
+      boris.temp="9548k";
+
 
     }
 }
